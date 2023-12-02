@@ -4,11 +4,11 @@
       "locked": {
         "lastModified": 1,
         "narHash": "sha256-nFx5wC7whUnCL1FbamkOA02XM7himk2BVASI7LYStFM=",
-        "path": "./cpu-architectures",
+        "path": "cpu-architectures",
         "type": "path"
       },
       "original": {
-        "path": "./cpu-architectures",
+        "path": "cpu-architectures",
         "type": "path"
       }
     },

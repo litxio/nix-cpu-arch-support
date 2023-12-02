@@ -2,7 +2,7 @@
   description = "Small library for flakes with derivations per CPU architecture";
 
   inputs = {
-    cpu-architectures.url = "path:./cpu-architectures";
+    cpu-architectures.url = "path:cpu-architectures";
   };
 
   outputs = { self, cpu-architectures}: {

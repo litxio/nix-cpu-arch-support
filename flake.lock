@@ -2,14 +2,17 @@
   "nodes": {
     "cpu-architectures": {
       "locked": {
-        "lastModified": 1,
+        "lastModified": 1701517497,
         "narHash": "sha256-nFx5wC7whUnCL1FbamkOA02XM7himk2BVASI7LYStFM=",
-        "path": "cpu-architectures",
-        "type": "path"
+        "owner": "litxio",
+        "repo": "cpu-architectures",
+        "rev": "abb7ca72e2d332e61c42896e25bb89a9be33103e",
+        "type": "github"
       },
       "original": {
-        "path": "cpu-architectures",
-        "type": "path"
+        "owner": "litxio",
+        "repo": "cpu-architectures",
+        "type": "github"
       }
     },
     "root": {
